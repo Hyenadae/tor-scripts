@@ -1,4 +1,3 @@
-
 #!/bin/bash
 sudo apt-get install tor torify --no-install-recommends
 sleep 5
